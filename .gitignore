@@ -1,1 +1,4 @@
 /venv
+/venv_wsl
+.env
+*_pycache_*
